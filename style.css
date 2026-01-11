@@ -20,7 +20,7 @@ body {
   padding: 50px;
 }
 
-.container.show-nav {
+.container.display {
   transform: rotate(-20deg);
 }
 .wrap {
@@ -36,7 +36,7 @@ body {
   position: relative;
   transition: transform 0.5s linear;
 }
-.container.show-nav .circle {
+.container.display .circle {
   transform: rotate(-70deg);
 }
 button {
