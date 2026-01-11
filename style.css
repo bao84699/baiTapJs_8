@@ -58,7 +58,7 @@ button {
   transform: rotate(90deg);
   transform-origin: top left;
 }
-.container.show-nav + nav li {
+.container.display + nav li {
   transform: translateX(0);
   transition-delay: 0.3s;
 }
